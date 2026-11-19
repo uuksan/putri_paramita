@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "language": "id",
+  "canonical_source": "karakter/karakter.md",
+  "visual_style": {"type": "2D flat cartoon", "outline": "#3B2A20", "character_gradients": false},
+  "audience_age": [5, 10],
+  "genres": ["petualangan", "persahabatan", "edukasi ringan"],
+  "height_measurement": "ubun-ubun sampai telapak kaki; topi dan mahkota tidak dihitung",
+  "video": {"duration_seconds": 70, "aspect_ratio": "9:16", "scenes": 7, "seconds_per_scene": 10, "proposed_width": 1080, "proposed_height": 1920, "proposed_fps": 30, "proposed_total_frames": 2100},
+  "characters": [
+    {
+      "id": "puci", "name": "Puci", "status": "canon", "age": "kurcaci anak-anak", "height_cm": 105, "build": "ramping",
+      "personality": ["ceria", "optimis", "penasaran", "pengajak petualangan"],
+      "hair": "cokelat muda", "freckles": false, "hat_tip_front_viewer": "kanan",
+      "clothing": ["topi kerucut biru muda berpompom putih", "tunik berkerah V", "ikat pinggang cokelat gesper emas", "celana pendek biru tua", "bot cokelat"],
+      "palette": {"hat_tunic": "#A8DDF7", "hat_band": "#6EC1EC", "shorts": "#2F6FB5", "skin": "#FFD3B0", "hair": "#A0673A", "belt_boots": "#8B5A2B", "buckle": "#F6C343"},
+      "signature_pose": "melambai ceria",
+      "assets": {"original_svg": "karakter/puci.svg", "original_png": "karakter/puci.png", "cutout_svg": "karakter/svg/puci_transparent.svg", "cutout_png": "karakter/png/puci_transparent.png", "turnaround_svg": "karakter/svg/puci_turnaround.svg", "turnaround_png": "karakter/png/puci_turnaround.png", "expressions_svg": "karakter/svg/puci_expressions.svg", "expressions_png": "karakter/png/puci_expressions.png"}
+    },
+    {
+      "id": "kuci", "name": "Kuci", "status": "canon", "age": "kurcaci anak-anak", "height_cm": 100, "build": "gempal dan bulat",
+      "personality": ["humoris", "baik hati", "setia", "kadang ceroboh"],
+      "hair": "cokelat tua", "freckles": true, "hat_tip_front_viewer": "kiri",
+      "clothing": ["topi kerucut kuning berpompom putih", "tunik kuning berkerah V dengan perut bulat", "ikat pinggang cokelat gesper oranye", "celana pendek cokelat oranye", "bot cokelat"],
+      "palette": {"hat": "#FFD84D", "hat_band": "#F5B921", "tunic": "#FFE066", "shorts": "#C8742E", "skin": "#FFD3B0", "hair": "#5A3820", "belt_boots": "#8B5A2B", "buckle": "#F28C28"},
+      "signature_pose": "mengedip dan mengacungkan jempol",
+      "assets": {"original_svg": "karakter/kuci.svg", "original_png": "karakter/kuci.png", "cutout_svg": "karakter/svg/kuci_transparent.svg", "cutout_png": "karakter/png/kuci_transparent.png", "turnaround_svg": "karakter/svg/kuci_turnaround.svg", "turnaround_png": "karakter/png/kuci_turnaround.png", "expressions_svg": "karakter/svg/kuci_expressions.svg", "expressions_png": "karakter/png/kuci_expressions.png"}
+    },
+    {
+      "id": "putri_paramita", "name": "Putri Paramita", "status": "canon", "age_years": 16, "height_cm": 165, "build": "remaja langsing sekitar enam kepala",
+      "personality": ["hangat", "sabar", "bijaksana", "menolong dengan sihir"],
+      "hair": "hitam panjang lurus sampai pinggang dengan poni samping", "eyes": "cokelat agak sipit dengan bulu mata", "skin_description": "lebih terang daripada kedua kurcaci",
+      "clothing": ["kebaya pink muda lengan panjang berkancing emas dan manset emas", "kain pink motif kawung emas", "tepi pink tua motif tumpal emas", "stagen emas dengan pita menjuntai", "kalung emas", "mahkota kecil bernuansa Jawa, permata merah dan toska", "melati putih sisi kiri penonton pada tampak depan", "sepatu pink"],
+      "prop": "tongkat kayu cokelat dengan bintang emas dan kilauan kecil",
+      "palette": {"kebaya": "#FFB3CF", "skirt": "#FF8FB8", "kawung": "#FFD36B", "hem_shoes": "#E0528F", "gold": "#F6C343", "red_gem": "#E63973", "turquoise_gem": "#3CC5B0", "skin": "#FFE9DA", "hair": "#1F1A24", "eyes": "#4A2A1A", "wand_wood": "#C9893A", "wand_star": "#FFD84D"},
+      "assets": {"original_svg": "karakter/putri_paramita.svg", "original_png": "karakter/putri_paramita.png", "cutout_svg": "karakter/svg/putri_paramita_transparent.svg", "cutout_png": "karakter/png/putri_paramita_transparent.png", "turnaround_svg": "karakter/svg/putri_paramita_turnaround.svg", "turnaround_png": "karakter/png/putri_paramita_turnaround.png", "expressions_svg": "karakter/svg/putri_paramita_expressions.svg", "expressions_png": "karakter/png/putri_paramita_expressions.png"}
+    }
+  ],
+  "asset_dimensions": {"original_svg": [720,1280], "original_png": [1080,1920], "cutout": [1080,1920], "turnaround": [1500,1020], "expressions": [1540,650], "canonical_lineup": [1080,1200]},
+  "original_lineup": "karakter/lineup_tinggi.png",
+  "canonical_lineup": "karakter/png/lineup_canonical.png",
+  "proposals": {"status": "draft_not_user_approved", "turnaround_details": ["profil hidung dan kedalaman tubuh", "rambut belakang", "sambungan busana belakang", "orientasi topi dan melati saat rotasi", "pose samping dan belakang"], "expression_variants": ["netral", "senang", "terkejut", "khawatir"], "story_title": "Tiga Pot untuk Taman", "story_files": ["brief/brief-70detik.md", "naskah/naskah-70detik.md", "adegan/storyboard-70detik.md"]}
+}

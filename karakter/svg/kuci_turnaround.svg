@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1020" viewBox="0 0 1500 1020"><defs>
+    
+  </defs><text x="40" y="50" font-family="Arial" font-size="28" fill="#3B2A20">kuci — REFERENSI USULAN</text><text x="40" y="85" font-family="Arial" font-size="20" fill="#3B2A20">Profil, belakang, sambungan busana dan orientasi aksesori belum kanon.</text><g transform="translate(0 100) scale(.69)"><g stroke="#3B2A20" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- legs -->
+    <rect x="292" y="960" width="44" height="100" fill="#FFD3B0"/>
+    <rect x="384" y="960" width="44" height="100" fill="#FFD3B0"/>
+    <!-- boots -->
+    <path d="M290,1045 H342 V1112 H256 Q248,1112 248,1100 Q250,1078 290,1072 Z" fill="#8B5A2B"/>
+    <path d="M378,1045 H430 V1072 Q470,1078 472,1100 Q472,1112 464,1112 H378 Z" fill="#8B5A2B"/>
+    <rect x="286" y="1038" width="60" height="20" rx="8" fill="#A97142"/>
+    <rect x="374" y="1038" width="60" height="20" rx="8" fill="#A97142"/>
+    <!-- shorts -->
+    <path d="M270,895 H450 L462,985 Q462,995 450,995 H372 L360,955 L348,995 H270 Q258,995 258,985 Z" fill="#C8742E"/>
+    <!-- left arm (down) -->
+    <path d="M295,668 Q240,690 220,790 L262,800 Q270,735 300,708 Z" fill="#FFE066"/>
+    <circle cx="240" cy="808" r="26" fill="#FFD3B0"/>
+    <!-- tunic (round belly) -->
+    <path d="M290,648 Q360,628 430,648 Q505,770 492,905 Q490,930 462,930 H258 Q230,930 228,905 Q215,770 290,648 Z" fill="#FFE066"/>
+    <path d="M330,645 L360,690 L390,645" fill="#FFD3B0"/>
+    <path d="M227,835 H493 L494,870 H226 Z" fill="#8B5A2B"/>
+    <rect x="336" y="828" width="48" height="48" rx="8" fill="#F28C28"/>
+    <rect x="351" y="843" width="18" height="18" rx="3" fill="#8B5A2B" stroke-width="4"/>
+    <!-- right arm (thumbs up) -->
+    <path d="M425,668 Q495,680 515,740 L478,758 Q468,725 418,712 Z" fill="#FFE066"/>
+    <rect x="488" y="656" width="24" height="62" rx="12" fill="#FFD3B0"/>
+    <rect x="470" y="700" width="60" height="54" rx="20" fill="#FFD3B0"/>
+    <path d="M478,718 H502 M478,736 H502" fill="none" stroke-width="4"/>
+    <!-- ears -->
+    <circle cx="224" cy="545" r="25" fill="#FFD3B0"/>
+    <circle cx="496" cy="545" r="25" fill="#FFD3B0"/>
+    <!-- head (rounder) -->
+    <ellipse cx="360" cy="525" rx="138" ry="125" fill="#FFD3B0"/>
+    <!-- hair tufts -->
+    <path d="M228,470 Q214,520 242,545 Q246,510 270,495 Q254,488 258,470 Z" fill="#5A3820"/>
+    <path d="M492,470 Q506,520 478,545 Q474,510 450,495 Q466,488 462,470 Z" fill="#5A3820"/>
+    <!-- hat (tip flops left) -->
+    <path d="M500,458 C460,330 400,180 340,120 C310,95 270,110 265,150 C280,140 300,140 310,160 C290,260 250,360 220,458 Z" fill="#FFD84D"/>
+    <path d="M420,420 C400,330 370,240 342,180" fill="none" stroke="#FFFFFF" stroke-width="8" opacity="0.7"/>
+    <circle cx="265" cy="152" r="20" fill="#FFFFFF"/>
+    <rect x="205" y="435" width="310" height="50" rx="25" fill="#F5B921"/>
+    <!-- eyebrows -->
+    <path d="M290,498 Q313,482 338,494" fill="none" stroke="#5A3820" stroke-width="7"/>
+    <path d="M382,508 Q405,500 430,506" fill="none" stroke="#5A3820" stroke-width="7"/>
+    <!-- eyes: left open, right winking -->
+    <ellipse cx="315" cy="545" rx="23" ry="29" fill="#FFFFFF"/>
+    <circle cx="319" cy="550" r="15" fill="#2B1D14" stroke="none"/>
+    <circle cx="324" cy="543" r="5" fill="#FFFFFF" stroke="none"/>
+    <path d="M382,548 Q406,526 430,548" fill="none" stroke="#2B1D14" stroke-width="7"/>
+    <!-- cheeks + freckles -->
+    <ellipse cx="280" cy="595" rx="26" ry="15" fill="#FF9FA8" stroke="none" opacity="0.75"/>
+    <ellipse cx="440" cy="595" rx="26" ry="15" fill="#FF9FA8" stroke="none" opacity="0.75"/>
+    <g fill="#C98A5A" stroke="none">
+      <circle cx="270" cy="588" r="3"/><circle cx="282" cy="598" r="3"/><circle cx="292" cy="587" r="3"/>
+      <circle cx="430" cy="587" r="3"/><circle cx="440" cy="598" r="3"/><circle cx="450" cy="588" r="3"/>
+    </g>
+    <!-- nose -->
+    <ellipse cx="360" cy="578" rx="18" ry="14" fill="#F7B48F" stroke-width="5"/>
+    <!-- big grin -->
+    <path d="M300,603 Q360,672 420,603 Q360,618 300,603 Z" fill="#8C2F39"/>
+    <path d="M312,607 Q360,620 408,607 L402,620 Q360,630 318,620 Z" fill="#FFFFFF" stroke-width="3"/>
+    <path d="M342,646 Q360,632 380,646 Q360,656 342,646 Z" fill="#F27C8A" stroke="none"/>
+    <!-- wink sparkle -->
+    <path d="M535,490 Q538,502 550,505 Q538,508 535,520 Q532,508 520,505 Q532,502 535,490 Z" fill="#FFD84D" stroke-width="3"/>
+  </g></g><g transform="translate(500 100) scale(.69)"><g stroke="#3B2A20" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"><rect x="325" y="950" width="40" height="110" rx="8" fill="#FFD3B0"/><rect x="345" y="950" width="40" height="110" rx="8" fill="#FFD3B0"/><path d="M320 1045 H380 V1070 Q438 1080 438 1112 H320 Z" fill="#8B5A2B"/><rect x="310" y="890" width="120" height="95" rx="8" fill="#C8742E"/><path d="M320 650 H380 Q470 780 438 925 H290 Q278 760 320 650 Z" fill="#FFE066"/><rect x="300" y="835" width="138" height="35" rx="8" fill="#8B5A2B"/><path d="M340 670 Q310 730 322 810 L360 812 Q344 750 372 690 Z" fill="#FFE066"/><ellipse cx="344" cy="824" rx="22" ry="24" fill="#FFD3B0"/><path d="M300 430 Q400 405 420 495 L448 550 Q469 565 440 578 L428 583 Q425 635 378 649 Q300 657 278 570 Q260 470 300 430 Z" fill="#FFD3B0"/><path d="M282 470 Q265 540 305 565 L326 490 Z" fill="#5A3820"/><ellipse cx="318" cy="544" rx="20" ry="26" fill="#FFD3B0"/><ellipse cx="401" cy="534" rx="13" ry="23" fill="#FFFFFF"/><ellipse cx="406" cy="537" rx="7" ry="12" fill="#2B1D14"/><path d="M388 497 Q402 484 417 494" fill="none"/><path d="M410 607 Q425 615 435 602" fill="none"/><ellipse cx="402" cy="584" rx="3" ry="3" fill="#C98A5A"/><ellipse cx="412" cy="594" rx="3" ry="3" fill="#C98A5A"/><ellipse cx="420" cy="582" rx="3" ry="3" fill="#C98A5A"/><path d="M235 455 Q280 260 325 140 Q300 110 270 150 Q275 95 320 110 Q415 205 490 455 Z" fill="#FFD84D"/><ellipse cx="270" cy="150" rx="20" ry="20" fill="#FFFFFF"/><rect x="272" y="435" width="165" height="50" rx="8" fill="#F5B921"/></g></g><g transform="translate(1000 100) scale(.69)"><g stroke="#3B2A20" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"><rect x="300" y="950" width="40" height="110" rx="8" fill="#FFD3B0"/><rect x="380" y="950" width="40" height="110" rx="8" fill="#FFD3B0"/><path d="M292 1045 H348 V1112 H282 V1070 Z" fill="#8B5A2B"/><path d="M372 1045 H428 V1112 H362 V1070 Z" fill="#8B5A2B"/><path d="M275 890 H445 V985 H372 L360 950 L348 985 H275 Z" fill="#C8742E"/><path d="M290 650 Q360 630 430 650 Q500 790 490 925 H230 Q220 790 290 650 Z" fill="#FFE066"/><rect x="230" y="835" width="260" height="35" rx="8" fill="#8B5A2B"/><rect x="250" y="675" width="36" height="145" rx="8" fill="#FFE066"/><ellipse cx="268" cy="828" rx="22" ry="24" fill="#FFD3B0"/><rect x="435" y="675" width="36" height="145" rx="8" fill="#FFE066"/><ellipse cx="453" cy="828" rx="22" ry="24" fill="#FFD3B0"/><ellipse cx="360" cy="525" rx="138" ry="125" fill="#5A3820"/><ellipse cx="225" cy="545" rx="20" ry="24" fill="#FFD3B0"/><ellipse cx="495" cy="545" rx="20" ry="24" fill="#FFD3B0"/><path d="M240 490 Q260 600 300 622 M480 490 Q460 600 420 622" fill="none"/><path d="M235 455 Q300 230 380 110 Q435 95 455 150 Q425 130 405 155 Q455 320 490 455 Z" fill="#FFD84D"/><ellipse cx="455" cy="150" rx="20" ry="20" fill="#FFFFFF"/><rect x="215" y="435" width="290" height="50" rx="8" fill="#F5B921"/></g></g><text x="190" y="925" font-family="Arial" font-size="24" fill="#3B2A20">DEPAN (sumber)</text><text x="675" y="925" font-family="Arial" font-size="24" fill="#3B2A20">SAMPING (profil)</text><text x="1180" y="925" font-family="Arial" font-size="24" fill="#3B2A20">BELAKANG</text><text x="40" y="980" font-family="Arial" font-size="20" fill="#3B2A20">Pose depan adalah pose asli; tinggi pada sheet ini bukan penggaris antar karakter.</text></svg>

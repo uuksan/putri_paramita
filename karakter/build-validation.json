@@ -1,0 +1,166 @@
+{
+  "renderer": "chrome.exe",
+  "originalsUnchanged": true,
+  "originalSHA256": {
+    "karakter/puci.svg": "95bf6c986fc419430347ab2d430b9f0590cff7cfd14b13c6b045b3e116d96c03",
+    "karakter/puci.png": "e2c0b7da665b2a05608622ef8878b16082b35dc86261be55e822e64addd52cd8",
+    "karakter/kuci.svg": "1c6b769bc99f370d34ced1f06786932ab7c6c39aa9f2fbe395ddd4c0b785e50e",
+    "karakter/kuci.png": "9aeaa72dbcaafb0f5d5ea9cadccd4b17fe378f1557794fc3f72aabffdf69dda9",
+    "karakter/putri_paramita.svg": "99998e868fbff95d938bc05339ac2eba355f2e380c9f3ef017dba4e4c3252669",
+    "karakter/putri_paramita.png": "f397278c7461098e0688c30ec56caebb5ecf97dce7d8c4a2c70ae33daaeb28bb",
+    "karakter/lineup_tinggi.svg": "ce89564e229f211c16d713e0a9b1adf951f30216c0d9c1919826654236b69987",
+    "karakter/lineup_tinggi.png": "695e202b2c239d5a767c91ae95894a3131ea06d6717302359c807a804d6a554d"
+  },
+  "assets": [
+    {
+      "file": "karakter/png/puci_transparent.png",
+      "width": 1080,
+      "height": 1920,
+      "colorType": "RGBA8",
+      "transparentPixels": 1634332,
+      "opaquePixels": 433203,
+      "partialAlphaPixels": 6065,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/kuci_transparent.png",
+      "width": 1080,
+      "height": 1920,
+      "colorType": "RGBA8",
+      "transparentPixels": 1585928,
+      "opaquePixels": 482197,
+      "partialAlphaPixels": 5475,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/putri_paramita_transparent.png",
+      "width": 1080,
+      "height": 1920,
+      "colorType": "RGBA8",
+      "transparentPixels": 1668677,
+      "opaquePixels": 399319,
+      "partialAlphaPixels": 5604,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/puci_turnaround.png",
+      "width": 1500,
+      "height": 1020,
+      "colorType": "RGBA8",
+      "transparentPixels": 1266310,
+      "opaquePixels": 241343,
+      "partialAlphaPixels": 22347,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/puci_expressions.png",
+      "width": 1540,
+      "height": 650,
+      "colorType": "RGBA8",
+      "transparentPixels": 727708,
+      "opaquePixels": 257843,
+      "partialAlphaPixels": 15449,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/kuci_turnaround.png",
+      "width": 1500,
+      "height": 1020,
+      "colorType": "RGBA8",
+      "transparentPixels": 1244268,
+      "opaquePixels": 263809,
+      "partialAlphaPixels": 21923,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/kuci_expressions.png",
+      "width": 1540,
+      "height": 650,
+      "colorType": "RGBA8",
+      "transparentPixels": 727749,
+      "opaquePixels": 258981,
+      "partialAlphaPixels": 14270,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/putri_paramita_turnaround.png",
+      "width": 1500,
+      "height": 1020,
+      "colorType": "RGBA8",
+      "transparentPixels": 1291676,
+      "opaquePixels": 215448,
+      "partialAlphaPixels": 22876,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/putri_paramita_expressions.png",
+      "width": 1540,
+      "height": 650,
+      "colorType": "RGBA8",
+      "transparentPixels": 630511,
+      "opaquePixels": 356925,
+      "partialAlphaPixels": 13564,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "karakter/png/lineup_canonical.png",
+      "width": 1080,
+      "height": 1200,
+      "colorType": "RGBA8",
+      "transparentPixels": 1045646,
+      "opaquePixels": 234841,
+      "partialAlphaPixels": 15513,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

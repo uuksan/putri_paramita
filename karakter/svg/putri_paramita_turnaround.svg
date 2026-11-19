@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1020" viewBox="0 0 1500 1020"><defs>
+    
+    <pattern id="kawung" width="48" height="48" patternUnits="userSpaceOnUse">
+      <g fill="#FFD36B" opacity="0.75">
+        <ellipse cx="24" cy="16" rx="4.5" ry="7"/><ellipse cx="24" cy="32" rx="4.5" ry="7"/>
+        <ellipse cx="16" cy="24" rx="7" ry="4.5"/><ellipse cx="32" cy="24" rx="7" ry="4.5"/>
+      </g>
+      <circle cx="24" cy="24" r="2.2" fill="#C8417E"/>
+    </pattern>
+  </defs><text x="40" y="50" font-family="Arial" font-size="28" fill="#3B2A20">putri_paramita — REFERENSI USULAN</text><text x="40" y="85" font-family="Arial" font-size="20" fill="#3B2A20">Profil, belakang, sambungan busana dan orientasi aksesori belum kanon.</text><g transform="translate(0 100) scale(.69)"><g stroke="#3B2A20" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- back hair -->
+    <path d="M290,280 Q266,450 282,600 Q318,622 345,600 L375,600 Q402,622 438,600 Q454,450 430,280 Q360,196 290,280 Z" fill="#1F1A24"/>
+    <!-- neck -->
+    <rect x="346" y="380" width="28" height="60" fill="#FFE9DA"/>
+    <!-- shoes -->
+    <ellipse cx="330" cy="1088" rx="26" ry="13" fill="#E0528F"/>
+    <ellipse cx="390" cy="1088" rx="26" ry="13" fill="#E0528F"/>
+    <!-- skirt (kain) -->
+    <path d="M308,560 H412 Q470,800 490,1060 Q490,1072 478,1072 H242 Q230,1072 230,1060 Q250,800 308,560 Z" fill="#FF8FB8"/>
+    <path d="M308,560 H412 Q470,800 490,1060 Q490,1072 478,1072 H242 Q230,1072 230,1060 Q250,800 308,560 Z" fill="url(#kawung)" stroke="none"/>
+    <path d="M233,1022 H487 Q489,1040 490,1060 Q490,1072 478,1072 H242 Q230,1072 230,1060 Q231,1040 233,1022 Z" fill="#E0528F"/>
+    <g fill="#F6C343" stroke-width="3">
+      <polygon points="240,1066 255,1030 270,1066"/><polygon points="270,1066 285,1030 300,1066"/>
+      <polygon points="300,1066 315,1030 330,1066"/><polygon points="330,1066 345,1030 360,1066"/>
+      <polygon points="360,1066 375,1030 390,1066"/><polygon points="390,1066 405,1030 420,1066"/>
+      <polygon points="420,1066 435,1030 450,1066"/><polygon points="450,1066 465,1030 480,1066"/>
+    </g>
+    <!-- kebaya top -->
+    <path d="M300,412 Q330,405 345,410 Q360,432 375,410 Q390,405 420,412 Q448,420 446,445 L412,565 H308 L274,445 Q272,420 300,412 Z" fill="#FFB3CF"/>
+    <path d="M360,432 V555" fill="none" stroke="#E0A92A" stroke-width="4"/>
+    <g fill="#F6C343" stroke-width="3">
+      <circle cx="360" cy="458" r="6"/><circle cx="360" cy="492" r="6"/><circle cx="360" cy="526" r="6"/>
+    </g>
+    <!-- necklace -->
+    <path d="M346,416 Q360,446 374,416" fill="none" stroke="#E0A92A" stroke-width="4"/>
+    <circle cx="360" cy="438" r="5" fill="#F6C343" stroke-width="3"/>
+    <!-- golden stagen + sash tails -->
+    <path d="M306,550 H414 L416,585 H304 Z" fill="#F6C343"/>
+    <path d="M378,580 L368,650 L384,642 Z" fill="#F6C343"/>
+    <path d="M392,580 L404,648 L390,642 Z" fill="#F6C343"/>
+    <circle cx="385" cy="568" r="12" fill="#FFD86B"/>
+    <!-- left arm (relaxed) -->
+    <path d="M282,420 Q262,440 258,520 L252,600 L284,604 L292,520 Q296,470 302,450 Z" fill="#FFB3CF"/>
+    <path d="M254,606 L250,670 L274,672 L282,610 Z" fill="#FFE9DA"/>
+    <path d="M250,592 L286,596 L284,612 L249,608 Z" fill="#F6C343" stroke-width="4"/>
+    <ellipse cx="263" cy="682" rx="13" ry="17" fill="#FFE9DA"/>
+    <!-- right arm (raised, holding wand) -->
+    <path d="M465,520 L490,530 L512,445 L490,438 Z" fill="#FFE9DA"/>
+    <path d="M425,418 Q455,425 470,470 L490,522 L462,534 L440,480 Z" fill="#FFB3CF"/>
+    <path d="M460,522 L492,512 L497,526 L465,537 Z" fill="#F6C343" stroke-width="4"/>
+    <path d="M490,470 L530,300" fill="none" stroke-width="10"/>
+    <path d="M490,470 L530,300" fill="none" stroke="#C9893A" stroke-width="5"/>
+    <ellipse cx="500" cy="428" rx="15" ry="17" fill="#FFE9DA"/>
+    <polygon transform="translate(536 278)" points="0,-30 7.2,-10 28.5,-9.3 11.7,3.8 17.6,24.3 0,12.4 -17.6,24.3 -11.7,3.8 -28.5,-9.3 -7.2,-10" fill="#FFD84D"/>
+    <g fill="#FFE98A" stroke-width="3">
+      <path transform="translate(588 236)" d="M0,-18 Q3,-3 18,0 Q3,3 0,18 Q-3,3 -18,0 Q-3,-3 0,-18 Z"/>
+      <path transform="translate(582 322) scale(0.7)" d="M0,-18 Q3,-3 18,0 Q3,3 0,18 Q-3,3 -18,0 Q-3,-3 0,-18 Z"/>
+      <path transform="translate(500 230) scale(0.55)" d="M0,-18 Q3,-3 18,0 Q3,3 0,18 Q-3,3 -18,0 Q-3,-3 0,-18 Z"/>
+    </g>
+    <!-- face -->
+    <path d="M294,300 Q294,230 360,230 Q426,230 426,300 Q426,350 395,378 Q375,392 360,392 Q345,392 325,378 Q294,350 294,300 Z" fill="#FFE9DA"/>
+    <!-- bangs + front locks -->
+    <path d="M292,322 Q286,226 360,224 Q434,226 428,322 Q420,280 402,260 Q372,292 322,282 Q306,296 292,322 Z" fill="#1F1A24"/>
+    <path d="M296,300 Q282,380 300,470 L314,462 Q302,390 312,318 Z" fill="#1F1A24"/>
+    <path d="M424,300 Q438,380 420,470 L406,462 Q418,390 408,318 Z" fill="#1F1A24"/>
+    <path d="M330,248 Q360,236 392,244" fill="none" stroke="#5A4A6A" stroke-width="5" opacity="0.8"/>
+    <!-- tiara -->
+    <path d="M318,240 L324,212 L342,228 L360,190 L378,228 L396,212 L402,240 Q360,230 318,240 Z" fill="#F6C343"/>
+    <circle cx="360" cy="218" r="7" fill="#E63973" stroke-width="3"/>
+    <circle cx="334" cy="232" r="4" fill="#3CC5B0" stroke-width="2"/>
+    <circle cx="386" cy="232" r="4" fill="#3CC5B0" stroke-width="2"/>
+    <!-- jasmine -->
+    <g fill="#FFFFFF" stroke-width="2.5">
+      <circle cx="296" cy="260" r="6"/><circle cx="307" cy="256" r="6"/><circle cx="309" cy="267" r="6"/>
+      <circle cx="300" cy="273" r="6"/><circle cx="290" cy="269" r="6"/>
+    </g>
+    <circle cx="300" cy="265" r="3.5" fill="#FFD84D" stroke="none"/>
+    <!-- eyebrows -->
+    <path d="M320,298 Q333,290 347,295" fill="none" stroke="#1F1A24" stroke-width="4"/>
+    <path d="M373,295 Q387,290 400,298" fill="none" stroke="#1F1A24" stroke-width="4"/>
+    <!-- eyes -->
+    <path d="M320,320 Q334,304 349,320 Q334,332 320,320 Z" fill="#FFFFFF" stroke-width="3"/>
+    <path d="M371,320 Q386,304 400,320 Q386,332 371,320 Z" fill="#FFFFFF" stroke-width="3"/>
+    <circle cx="335" cy="319" r="8.5" fill="#4A2A1A" stroke="none"/>
+    <circle cx="385" cy="319" r="8.5" fill="#4A2A1A" stroke="none"/>
+    <circle cx="338" cy="315" r="3" fill="#FFFFFF" stroke="none"/>
+    <circle cx="388" cy="315" r="3" fill="#FFFFFF" stroke="none"/>
+    <path d="M318,319 Q334,302 351,318 M318,319 L312,314" fill="none" stroke="#1F1A24" stroke-width="4.5"/>
+    <path d="M402,319 Q386,302 369,318 M402,319 L408,314" fill="none" stroke="#1F1A24" stroke-width="4.5"/>
+    <!-- blush -->
+    <ellipse cx="320" cy="348" rx="13" ry="7" fill="#FF9FB4" stroke="none" opacity="0.65"/>
+    <ellipse cx="400" cy="348" rx="13" ry="7" fill="#FF9FB4" stroke="none" opacity="0.65"/>
+    <!-- nose + smile -->
+    <path d="M356,345 Q360,350 365,345" fill="none" stroke-width="3"/>
+    <path d="M344,362 Q360,378 376,362 Q360,368 344,362 Z" fill="#D45A72" stroke-width="3.5"/>
+  </g></g><g transform="translate(500 100) scale(.69)"><g stroke="#3B2A20" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="365" cy="1088" rx="26" ry="13" fill="#E0528F"/><path d="M330 560 H390 Q420 820 430 1072 H295 Q302 820 330 560 Z" fill="#FF8FB8"/><path d="M330 560 H390 Q420 820 430 1072 H295 Q302 820 330 560 Z" fill="url(#kawung)"/><rect x="297" y="1022" width="132" height="50" rx="8" fill="#E0528F"/><polygon points="300,1066 315,1030 330,1066" fill="#F6C343"/><polygon points="330,1066 345,1030 360,1066" fill="#F6C343"/><polygon points="360,1066 375,1030 390,1066" fill="#F6C343"/><polygon points="390,1066 405,1030 420,1066" fill="#F6C343"/><path d="M325 412 H380 Q400 470 393 565 H316 Z" fill="#FFB3CF"/><rect x="316" y="550" width="77" height="35" rx="8" fill="#F6C343"/><path d="M339 420 Q315 490 330 600 H358 L370 432 Z" fill="#FFB3CF"/><rect x="330" y="592" width="28" height="20" rx="8" fill="#F6C343"/><rect x="333" y="612" width="22" height="58" rx="8" fill="#FFE9DA"/><ellipse cx="344" cy="681" rx="13" ry="17" fill="#FFE9DA"/><path d="M380 426 Q405 470 405 520 L380 526 L363 440 Z" fill="#FFB3CF"/><rect x="381" y="515" width="26" height="16" rx="8" fill="#F6C343"/><path d="M389 530 L410 498 L424 506 L402 545 Z" fill="#FFE9DA"/><ellipse cx="417" cy="503" rx="12" ry="15" fill="#FFE9DA"/><path d="M395 670 L425 450" fill="none"/><path d="M395 670 L425 450" stroke="#C9893A" stroke-width="5"/><polygon transform="translate(430 420)" points="0,-30 8,-10 29,-9 12,4 18,24 0,13 -18,24 -12,4 -29,-9 -8,-10" fill="#FFD84D"/><ellipse cx="470" cy="420" rx="4" ry="4" fill="#FFD84D"/><path d="M300 250 Q275 450 295 600 H350 L362 290 Z" fill="#1F1A24"/><path d="M320 245 Q387 220 397 285 L409 317 L425 330 Q430 339 409 344 L403 358 Q391 395 350 388 L329 350 Z" fill="#FFE9DA"/><path d="M302 300 Q287 221 350 224 Q393 225 398 275 Q367 245 344 282 L325 420 L300 455 Z" fill="#1F1A24"/><ellipse cx="390" cy="315" rx="10" ry="7" fill="#FFFFFF"/><ellipse cx="394" cy="315" rx="5" ry="6" fill="#4A2A1A"/><path d="M379 297 Q390 291 399 297 M380 315 L375 310 M388 363 Q397 369 405 360" fill="none"/><path d="M330 241 L336 213 L350 229 L367 198 L381 239 Z" fill="#F6C343"/><ellipse cx="366" cy="225" rx="6" ry="7" fill="#E63973"/><ellipse cx="341" cy="232" rx="4" ry="4" fill="#3CC5B0"/><ellipse cx="313" cy="260" rx="6" ry="6" fill="#FFFFFF"/><ellipse cx="324" cy="256" rx="6" ry="6" fill="#FFFFFF"/><ellipse cx="320" cy="271" rx="6" ry="6" fill="#FFFFFF"/></g></g><g transform="translate(1000 100) scale(.69)"><g stroke="#3B2A20" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="330" cy="1088" rx="26" ry="13" fill="#E0528F"/><ellipse cx="390" cy="1088" rx="26" ry="13" fill="#E0528F"/><path d="M308 560 H412 Q470 820 490 1072 H230 Q250 820 308 560 Z" fill="#FF8FB8"/><path d="M308 560 H412 Q470 820 490 1072 H230 Q250 820 308 560 Z" fill="url(#kawung)"/><rect x="234" y="1022" width="252" height="50" rx="8" fill="#E0528F"/><polygon points="240,1066 255,1030 270,1066" fill="#F6C343"/><polygon points="270,1066 285,1030 300,1066" fill="#F6C343"/><polygon points="300,1066 315,1030 330,1066" fill="#F6C343"/><polygon points="330,1066 345,1030 360,1066" fill="#F6C343"/><polygon points="360,1066 375,1030 390,1066" fill="#F6C343"/><polygon points="390,1066 405,1030 420,1066" fill="#F6C343"/><polygon points="420,1066 435,1030 450,1066" fill="#F6C343"/><polygon points="450,1066 465,1030 480,1066" fill="#F6C343"/><path d="M300 412 H420 L415 565 H305 Z" fill="#FFB3CF"/><rect x="304" y="550" width="112" height="35" rx="8" fill="#F6C343"/><path d="M280 420 Q260 500 252 600 H284 L305 430 Z" fill="#FFB3CF"/><rect x="250" y="592" width="36" height="20" rx="8" fill="#F6C343"/><rect x="253" y="612" width="22" height="58" rx="8" fill="#FFE9DA"/><ellipse cx="264" cy="681" rx="13" ry="17" fill="#FFE9DA"/><path d="M420 420 Q448 450 470 510 L445 535 L400 450 Z" fill="#FFB3CF"/><path d="M458 520 L490 435" fill="none"/><ellipse cx="490" cy="428" rx="15" ry="17" fill="#FFE9DA"/><path d="M490 470 L530 300" fill="none"/><path d="M490 470 L530 300" stroke="#C9893A" stroke-width="5"/><polygon transform="translate(536 278)" points="0,-30 8,-10 29,-9 12,4 18,24 0,13 -18,24 -12,4 -29,-9 -8,-10" fill="#FFD84D"/><ellipse cx="580" cy="280" rx="4" ry="4" fill="#FFD84D"/><path d="M290 280 Q266 450 282 600 Q360 630 438 600 Q454 450 430 280 Q360 190 290 280 Z" fill="#1F1A24"/><path d="M325 285 Q310 460 320 590 M395 285 Q410 460 400 590" fill="none"/><path d="M318 240 L325 214 L360 205 L395 214 L402 240 Z" fill="#F6C343"/><ellipse cx="422" cy="260" rx="6" ry="6" fill="#FFFFFF"/><ellipse cx="433" cy="262" rx="6" ry="6" fill="#FFFFFF"/><ellipse cx="428" cy="272" rx="6" ry="6" fill="#FFFFFF"/></g></g><text x="190" y="925" font-family="Arial" font-size="24" fill="#3B2A20">DEPAN (sumber)</text><text x="675" y="925" font-family="Arial" font-size="24" fill="#3B2A20">SAMPING (profil)</text><text x="1180" y="925" font-family="Arial" font-size="24" fill="#3B2A20">BELAKANG</text><text x="40" y="980" font-family="Arial" font-size="20" fill="#3B2A20">Pose depan adalah pose asli; tinggi pada sheet ini bukan penggaris antar karakter.</text></svg>
